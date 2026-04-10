@@ -1,7 +1,7 @@
 import { useAuth } from "@/contexts/AuthContext";
 import { useNavigate, useLocation } from "react-router-dom";
 import {
-  LayoutDashboard, BarChart3, Users, AlertTriangle, UserCircle, LogOut, Menu,
+  LayoutDashboard, BarChart3, Users, AlertTriangle, UserCircle, LogOut, Menu, FlaskConical,
 } from "lucide-react";
 import { NavLink } from "@/components/NavLink";
 import {
