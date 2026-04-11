@@ -20,7 +20,7 @@ _latest: dict[str, Any] | None = None
 # Allow the frontend dev server to call this API.
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:8080", "http://127.0.0.1:8080"],
+    allow_origins=["*"]
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
