@@ -10,7 +10,7 @@ Operis-AI is a full-stack system that combines:
 ⚡ FastAPI Backend (processing + APIs)
 📊 React Dashboard (real-time visualization)
 
-👉 It helps organizations monitor productivity and detect burnout risks early.
+👉 It helps in organizations monitor productivity and detect burnout risks early.
 
 🏗️ Architecture
 Chrome Extension → FastAPI Backend → ML Model → React Dashboard
@@ -22,12 +22,15 @@ Detects current working context (websites)
 🤖 ML-Based Prediction
 Predicts burnout risk (Low / High)
 Calculates productivity score
+
 📊 Live Dashboard
 Real-time productivity trends
 Burnout distribution charts
 Alerts for high-risk users
+
 🔄 Auto Refresh
 Dashboard updates every few seconds
+
 🧠 ML Model
 Model: Logistic Regression (trained on synthetic dataset)
 Features:
