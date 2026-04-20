@@ -2,7 +2,7 @@
 A real-time intelligent system that tracks user activity, predicts burnout risk using Machine Learning, and visualizes insights through a live dashboard.
 
 📌 Overview
-
+GreatFull to done with this project looking for your FeedBacks.
 Operis-AI is a full-stack system that combines:
 
 🧠 Machine Learning (burnout prediction)
@@ -130,6 +130,9 @@ Deployment mismatches
 🚀 Future Improvements
 Firebase integration (user storage)
 Multi-user tracking
+
+Author
+Dikshit Garg
 Real-time WebSocket updates
 AI-based recommendations
 Slack / Email alerts
